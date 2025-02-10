@@ -100,8 +100,8 @@ A selection of educational resources to help you learn about AI agents and their
 
 For any questions, collaborations, or contributions, feel free to reach out:
 
-📧 Email: [hasanparvez2017@gmail.com](mailto:hasanparvez2017@gmail.com)
-🔗 LinkedIn: [Md Parvej Hosen](https://www.linkedin.com/in/parvej2017)
+- 📧 Email: [hasanparvez2017@gmail.com](mailto:hasanparvez2017@gmail.com)
+- 🔗 LinkedIn: [Md Parvej Hosen](https://www.linkedin.com/in/parvej2017)
 
 ---
 
